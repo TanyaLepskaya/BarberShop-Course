@@ -134,7 +134,7 @@ body {
     .site-navigation a:focus,
     .user-navigation a:hover,
     .user-navigation a:focus {
-        background-color: #242424;
+        background-color: rgb(243, 58, 58);
     }
     
     .user-navigation .login-link{
